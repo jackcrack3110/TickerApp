@@ -1,0 +1,55 @@
+.ContentWrapperRow {
+    display: flex;
+    justify-content: center;
+  }
+  .rewardKYCBlock {
+    border-radius: 30px;
+    padding-left: 8px;
+    padding-right: 8px;
+    max-width: 100%;
+    width: 400px;
+    background: #172d3e;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 23.8095px 28.5714px rgba(0, 11, 40, 0.102);
+    font-weight: 300;
+  }
+  
+  .spaceBetween {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .tickerIcon {
+    height: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 0;
+  }
+  .tickerItems {
+    font-size: 20px;
+  }
+  
+  .btcUSD {
+    text-decoration: underline;
+    cursor: help;
+  }
+  .tickerItems h5 {
+    font-weight: 300px;
+    font-size: 16px;
+    white-space: no-wrap;
+    color: #ffffff;
+  }
+  .lightenText {
+    opacity: 0.75;
+  }
+  .greenText {
+    color: #01a781;
+  }
+  .redText {
+    color: red;
+  }
+  
